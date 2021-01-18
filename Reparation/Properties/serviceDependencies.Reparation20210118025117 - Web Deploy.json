@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/reparationdbserver2021/databases/Reparation_db",
+      "type": "mssql.azure",
+      "connectionId": "Conn_Main",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
